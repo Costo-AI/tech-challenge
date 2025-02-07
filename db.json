@@ -1,0 +1,18 @@
+{
+  "users": [
+    { "id": 1, "name": "Alice Johnson", "email": "alice@example.com" },
+    { "id": 2, "name": "Bob Smith", "email": "bob@example.com" },
+    { "id": 3, "name": "Charlie Brown", "email": "charlie@example.com" },
+    { "id": 4, "name": "Diana Ross", "email": "diana@example.com" }
+  ],
+  "posts": [
+    { "id": 1, "title": "React Performance Tips", "body": "Optimize re-renders and use memoization.", "userId": 1 },
+    { "id": 2, "title": "Understanding TypeScript", "body": "Exploring interfaces, types, and generics.", "userId": 2 },
+    { "id": 3, "title": "NestJS Authentication", "body": "How to implement JWT authentication in NestJS.", "userId": 1 },
+    { "id": 4, "title": "AWS Lambda vs EC2", "body": "Comparing AWS Lambda and EC2 for backend tasks.", "userId": 3 },
+    { "id": 5, "title": "React Hooks Best Practices", "body": "When to use useEffect, useCallback, and useMemo.", "userId": 4 },
+    { "id": 6, "title": "Using MikroORM with PostgreSQL", "body": "Setting up MikroORM with PostgreSQL in a Node.js project.", "userId": 2 },
+    { "id": 7, "title": "GraphQL vs REST", "body": "Understanding when to use GraphQL instead of REST.", "userId": 3 },
+    { "id": 8, "title": "Deploying React Apps on AWS", "body": "Using S3, CloudFront, and EC2 for React deployment.", "userId": 4 }
+  ]
+}

@@ -15,6 +15,10 @@
     "noEmit": true,
     "jsx": "react-jsx",
 
+    /* Allow JavaScript files */
+    "allowJs": true,
+    "checkJs": false,  // Set to `true` if you want TypeScript to check JS files for errors
+
     /* Linting */
     "strict": true,
     "noUnusedLocals": true,
@@ -22,5 +26,6 @@
     "noFallthroughCasesInSwitch": true,
     "noUncheckedSideEffectImports": true
   },
-  "include": ["src"]
+  "include": ["src", "**/*.js", "**/*.jsx"],  // Include JS/JSX files
+  "exclude": ["node_modules"]
 }

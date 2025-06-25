@@ -1,5 +1,5 @@
-# **Intern Tech Challenge: React & TypeScript**
-Welcome to the **Full-Stack Intern Tech Challenge**! 🎉  
+# ** Tech Challenge: React & TypeScript**
+Welcome to the **Full-Stack Tech Challenge**! 🎉  
 This challenge will test your ability to work with **React, TypeScript, and API fetching** while implementing client-side filtering.
 
 ---
